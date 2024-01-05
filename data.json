@@ -1,0 +1,26 @@
+{
+    "LIMIT_BAL":200000,
+    "SEX":2,
+    "EDUCATION":2,
+    "MARRIAGE":1,
+    "AGE":30,
+    "PAY_SEPT":33.6,
+    "PAY_AUG":0.62,
+    "PAY_JUL":59,
+    "PAY_JUN":0.62,
+    "PAY_MAY":0.62,
+    "PAY_APR":0.62,
+    "BILL_AMT_SEPT":0.62,
+    "BILL_AMT_AUG":0.62,
+    "BILL_AMT_JUL":0.62,
+    "BILL_AMT_JUN":0.62,
+    "BILL_AMT_MAY":0.62,
+    "BILL_AMT_APR":0.62,
+    "PAY_AMT_SEPT":0.62,
+    "PAY_AMT_AUG":0.62,
+    "PAY_AMT_JUL":0.62,
+    "PAY_AMT_JUN":0.62,
+    "PAY_AMT_MAY":0.62,
+    "PAY_AMT_APR":0.62
+    
+}
