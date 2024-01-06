@@ -1,1 +1,1 @@
-web:aap.py
+web:python aap.py
