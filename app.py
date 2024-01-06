@@ -2,11 +2,10 @@ from wsgiref import simple_server
 from flask import Flask, request, app, render_template
 from flask import Response
 from flask_cors import CORS
-import bz2
-import pickle 
 import numpy as np
 import pandas as pd
-
+import bz2
+import pickle
 
 
 app = Flask(__name__)
